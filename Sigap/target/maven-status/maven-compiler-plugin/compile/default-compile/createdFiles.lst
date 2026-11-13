@@ -1,0 +1,10 @@
+com\mycompany\sigap\model\Agenda.class
+com\mycompany\sigap\model\Warga.class
+com\mycompany\sigap\controller\LaporanController.class
+com\mycompany\sigap\Sigap.class
+com\mycompany\sigap\view\BerandaView.class
+com\mycompany\sigap\controller\AgendaController.class
+com\mycompany\sigap\controller\WargaController.class
+com\mycompany\sigap\util\HibernateUtil.class
+com\mycompany\sigap\view\AdminView.class
+com\mycompany\sigap\model\Laporan.class
